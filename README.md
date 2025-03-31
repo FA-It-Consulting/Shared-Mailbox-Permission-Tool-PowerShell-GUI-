@@ -18,9 +18,6 @@ A Windows Forms GUI tool written in PowerShell to **automatically assign FullAcc
 
 ## 📸 Screenshot
 
-> *(You can insert a screenshot of the GUI here)*  
-> Example: `![GUI Screenshot](images/screenshot.png)`
-
 ---
 
 ## 📦 Requirements
